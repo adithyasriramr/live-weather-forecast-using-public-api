@@ -1,2 +1,2 @@
 # live-weather-forecast-using-public-api
-In this Angular project, we connect our Angular application to a Public API. We connect the open weather api from Rapidapi.com to our Angular application and will get live weather data for cities. We use Angular forms to get the user input and search by city name. We then create an Angular service to call the weather API from our Angular application.
+In this Angular project, the angular application is connected to a public API. I have used the public API from rapidapi.com to get the live weather data for all the cities. Angular forms have been used to get the user input, which is the city name. An Angular service is created to call the weather API from the Angular application.
